@@ -1,3 +1,3 @@
 """Sort statement periods."""
 def resolve(value):
-    raise NotImplementedError("KASSA-11")
+    return sorted(set(value), reverse=True)
