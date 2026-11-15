@@ -1,3 +1,3 @@
 """Strip control characters from payees."""
 def resolve(value):
-    raise NotImplementedError("KASSA-9")
+    return "".join(c for c in value if c.isprintable()).strip()
