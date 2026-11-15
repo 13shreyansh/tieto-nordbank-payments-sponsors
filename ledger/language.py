@@ -1,3 +1,3 @@
 """Normalize customer language."""
 def resolve(value):
-    raise NotImplementedError("KASSA-13")
+    return value.lower().split("-")[0] if value.lower().split("-")[0] in ("fi", "sv", "nb", "da", "en") else "en"
