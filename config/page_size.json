@@ -1,0 +1,53 @@
+{
+  "module": "page_size",
+  "locales": {
+    "fi-FI": {
+      "heading": "Bound statement page size",
+      "empty": "No entries",
+      "download": "Download statement",
+      "state": "Pending",
+      "currency": "EUR",
+      "dateFormat": "DD.MM.YYYY"
+    },
+    "sv-SE": {
+      "heading": "Bound statement page size",
+      "empty": "No entries",
+      "download": "Download statement",
+      "state": "Pending",
+      "currency": "SEK",
+      "dateFormat": "YYYY-MM-DD"
+    },
+    "nb-NO": {
+      "heading": "Bound statement page size",
+      "empty": "No entries",
+      "download": "Download statement",
+      "state": "Pending",
+      "currency": "NOK",
+      "dateFormat": "DD.MM.YYYY"
+    },
+    "da-DK": {
+      "heading": "Bound statement page size",
+      "empty": "No entries",
+      "download": "Download statement",
+      "state": "Pending",
+      "currency": "DKK",
+      "dateFormat": "DD-MM-YYYY"
+    },
+    "is-IS": {
+      "heading": "Bound statement page size",
+      "empty": "No entries",
+      "download": "Download statement",
+      "state": "Pending",
+      "currency": "ISK",
+      "dateFormat": "DD.MM.YYYY"
+    },
+    "en-GB": {
+      "heading": "Bound statement page size",
+      "empty": "No entries",
+      "download": "Download statement",
+      "state": "Pending",
+      "currency": "EUR",
+      "dateFormat": "DD/MM/YYYY"
+    }
+  }
+}

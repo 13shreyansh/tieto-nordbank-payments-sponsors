@@ -1,3 +1,3 @@
 """Bound statement page size."""
 def resolve(value):
-    raise NotImplementedError("KASSA-7")
+    return min(100, max(1, int(value)))
