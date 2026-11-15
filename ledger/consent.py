@@ -1,3 +1,3 @@
 """Parse consent checkboxes."""
 def resolve(value):
-    raise NotImplementedError("KASSA-12")
+    return value is True or str(value).lower() in ("yes", "true", "1")
