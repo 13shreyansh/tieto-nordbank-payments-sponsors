@@ -1,3 +1,3 @@
 """Label pending transfers."""
 def resolve(value):
-    raise NotImplementedError("KASSA-8")
+    return {"P": "Pending", "S": "Settled", "R": "Rejected"}.get(value, "Unknown")
