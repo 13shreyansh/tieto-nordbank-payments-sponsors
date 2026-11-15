@@ -1,0 +1,53 @@
+{
+  "module": "transfer_state",
+  "locales": {
+    "fi-FI": {
+      "heading": "Label pending transfers",
+      "empty": "No entries",
+      "download": "Download statement",
+      "state": "Pending",
+      "currency": "EUR",
+      "dateFormat": "DD.MM.YYYY"
+    },
+    "sv-SE": {
+      "heading": "Label pending transfers",
+      "empty": "No entries",
+      "download": "Download statement",
+      "state": "Pending",
+      "currency": "SEK",
+      "dateFormat": "YYYY-MM-DD"
+    },
+    "nb-NO": {
+      "heading": "Label pending transfers",
+      "empty": "No entries",
+      "download": "Download statement",
+      "state": "Pending",
+      "currency": "NOK",
+      "dateFormat": "DD.MM.YYYY"
+    },
+    "da-DK": {
+      "heading": "Label pending transfers",
+      "empty": "No entries",
+      "download": "Download statement",
+      "state": "Pending",
+      "currency": "DKK",
+      "dateFormat": "DD-MM-YYYY"
+    },
+    "is-IS": {
+      "heading": "Label pending transfers",
+      "empty": "No entries",
+      "download": "Download statement",
+      "state": "Pending",
+      "currency": "ISK",
+      "dateFormat": "DD.MM.YYYY"
+    },
+    "en-GB": {
+      "heading": "Label pending transfers",
+      "empty": "No entries",
+      "download": "Download statement",
+      "state": "Pending",
+      "currency": "EUR",
+      "dateFormat": "DD/MM/YYYY"
+    }
+  }
+}
