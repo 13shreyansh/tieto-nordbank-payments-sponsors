@@ -1,3 +1,3 @@
 """Name settlement weekdays."""
 def resolve(value):
-    raise NotImplementedError("KASSA-17")
+    return ("Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday")[value % 7]
