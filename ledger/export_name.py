@@ -1,3 +1,3 @@
 """Keep export filenames safe."""
 def resolve(value):
-    raise NotImplementedError("KASSA-5")
+    return "".join(c for c in value if c.isalnum() or c in "-_") + ".csv"
