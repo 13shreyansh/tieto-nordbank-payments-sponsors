@@ -1,3 +1,3 @@
 """Mask account numbers."""
 def resolve(value):
-    raise NotImplementedError("KASSA-1")
+    return value[:4] + "*" * max(0, len(value)-8) + value[-4:]
