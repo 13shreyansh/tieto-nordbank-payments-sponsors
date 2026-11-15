@@ -1,0 +1,53 @@
+{
+  "module": "weekday",
+  "locales": {
+    "fi-FI": {
+      "heading": "Name settlement weekdays",
+      "empty": "No entries",
+      "download": "Download statement",
+      "state": "Pending",
+      "currency": "EUR",
+      "dateFormat": "DD.MM.YYYY"
+    },
+    "sv-SE": {
+      "heading": "Name settlement weekdays",
+      "empty": "No entries",
+      "download": "Download statement",
+      "state": "Pending",
+      "currency": "SEK",
+      "dateFormat": "YYYY-MM-DD"
+    },
+    "nb-NO": {
+      "heading": "Name settlement weekdays",
+      "empty": "No entries",
+      "download": "Download statement",
+      "state": "Pending",
+      "currency": "NOK",
+      "dateFormat": "DD.MM.YYYY"
+    },
+    "da-DK": {
+      "heading": "Name settlement weekdays",
+      "empty": "No entries",
+      "download": "Download statement",
+      "state": "Pending",
+      "currency": "DKK",
+      "dateFormat": "DD-MM-YYYY"
+    },
+    "is-IS": {
+      "heading": "Name settlement weekdays",
+      "empty": "No entries",
+      "download": "Download statement",
+      "state": "Pending",
+      "currency": "ISK",
+      "dateFormat": "DD.MM.YYYY"
+    },
+    "en-GB": {
+      "heading": "Name settlement weekdays",
+      "empty": "No entries",
+      "download": "Download statement",
+      "state": "Pending",
+      "currency": "EUR",
+      "dateFormat": "DD/MM/YYYY"
+    }
+  }
+}
