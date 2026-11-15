@@ -1,3 +1,3 @@
 """Normalize Finnish telephone numbers."""
 def resolve(value):
-    raise NotImplementedError("KASSA-16")
+    return "+358" + value[1:] if value.startswith("0") else value
