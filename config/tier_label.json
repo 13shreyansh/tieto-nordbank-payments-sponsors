@@ -1,0 +1,53 @@
+{
+  "module": "tier_label",
+  "locales": {
+    "fi-FI": {
+      "heading": "Show account tier names",
+      "empty": "No entries",
+      "download": "Download statement",
+      "state": "Pending",
+      "currency": "EUR",
+      "dateFormat": "DD.MM.YYYY"
+    },
+    "sv-SE": {
+      "heading": "Show account tier names",
+      "empty": "No entries",
+      "download": "Download statement",
+      "state": "Pending",
+      "currency": "SEK",
+      "dateFormat": "YYYY-MM-DD"
+    },
+    "nb-NO": {
+      "heading": "Show account tier names",
+      "empty": "No entries",
+      "download": "Download statement",
+      "state": "Pending",
+      "currency": "NOK",
+      "dateFormat": "DD.MM.YYYY"
+    },
+    "da-DK": {
+      "heading": "Show account tier names",
+      "empty": "No entries",
+      "download": "Download statement",
+      "state": "Pending",
+      "currency": "DKK",
+      "dateFormat": "DD-MM-YYYY"
+    },
+    "is-IS": {
+      "heading": "Show account tier names",
+      "empty": "No entries",
+      "download": "Download statement",
+      "state": "Pending",
+      "currency": "ISK",
+      "dateFormat": "DD.MM.YYYY"
+    },
+    "en-GB": {
+      "heading": "Show account tier names",
+      "empty": "No entries",
+      "download": "Download statement",
+      "state": "Pending",
+      "currency": "EUR",
+      "dateFormat": "DD/MM/YYYY"
+    }
+  }
+}
