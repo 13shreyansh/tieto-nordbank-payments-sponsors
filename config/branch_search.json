@@ -1,0 +1,53 @@
+{
+  "module": "branch_search",
+  "locales": {
+    "fi-FI": {
+      "heading": "Make branch search case insensitive",
+      "empty": "No entries",
+      "download": "Download statement",
+      "state": "Pending",
+      "currency": "EUR",
+      "dateFormat": "DD.MM.YYYY"
+    },
+    "sv-SE": {
+      "heading": "Make branch search case insensitive",
+      "empty": "No entries",
+      "download": "Download statement",
+      "state": "Pending",
+      "currency": "SEK",
+      "dateFormat": "YYYY-MM-DD"
+    },
+    "nb-NO": {
+      "heading": "Make branch search case insensitive",
+      "empty": "No entries",
+      "download": "Download statement",
+      "state": "Pending",
+      "currency": "NOK",
+      "dateFormat": "DD.MM.YYYY"
+    },
+    "da-DK": {
+      "heading": "Make branch search case insensitive",
+      "empty": "No entries",
+      "download": "Download statement",
+      "state": "Pending",
+      "currency": "DKK",
+      "dateFormat": "DD-MM-YYYY"
+    },
+    "is-IS": {
+      "heading": "Make branch search case insensitive",
+      "empty": "No entries",
+      "download": "Download statement",
+      "state": "Pending",
+      "currency": "ISK",
+      "dateFormat": "DD.MM.YYYY"
+    },
+    "en-GB": {
+      "heading": "Make branch search case insensitive",
+      "empty": "No entries",
+      "download": "Download statement",
+      "state": "Pending",
+      "currency": "EUR",
+      "dateFormat": "DD/MM/YYYY"
+    }
+  }
+}
