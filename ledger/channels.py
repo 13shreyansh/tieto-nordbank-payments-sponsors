@@ -1,3 +1,3 @@
 """Deduplicate notification channels."""
 def resolve(value):
-    raise NotImplementedError("KASSA-15")
+    return sorted(set(value) & {"email", "push", "sms"})
