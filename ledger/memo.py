@@ -1,3 +1,3 @@
 """Reject empty payment memos."""
 def resolve(value):
-    raise NotImplementedError("KASSA-3")
+    return value.strip()[:140] or "Payment"
